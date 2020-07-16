@@ -34,11 +34,11 @@
  
  * For retrieving all the user details enter the token in the header section and it will return all the users.    
  Ex : http://127.0.0.1:5000/api/v1/users        
-    x-access-token : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoibW9uaXNoIn0.s9Cd1lLFsyy23_zAo6pNk71Cmxkm1c7UXQxfgGx_3ds  
+    **x-access-token : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoibW9uaXNoIn0.s9Cd1lLFsyy23_zAo6pNk71Cmxkm1c7UXQxfgGx_3ds**  
     
  * For retrieving a particular user detail with user user_id, enter the user_id in url and token in header and it will return the particular user detail.   
  Ex : http://127.0.0.1:5000/api/v1/users/5f0f63661684a2c4d950622c      
- x-access-token : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoibW9uaXNoIn0.s9Cd1lLFsyy23_zAo6pNk71Cmxkm1c7UXQxfgGx_3ds 
+ **x-access-token : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoibW9uaXNoIn0.s9Cd1lLFsyy23_zAo6pNk71Cmxkm1c7UXQxfgGx_3ds** 
  
  
  
